@@ -1,5 +1,5 @@
 # MikroTik IP Address List for Brazil
-# Generated on: Tue 02 Sep 2025 05:11:33 PM -03
+# Generated on: Tue 02 Sep 2025 05:12:59 PM -03
 # Source: firewall.txt
 # 
 # This file contains IP ranges identified as being located in Brazil
@@ -13,7 +13,7 @@
 # Last Generated: 02 Sep 2025 14:58:11 GMT
 # [Important] Please update this list every month
 # -------------------------------------------------------
-add address=1.33.213.199/32 comment="Brazil" list=IP2Location
+add address=8.8.8.8/32 comment="Brazil" list=IP2Location
 add address=1.33.213.200/30 comment="Brazil" list=IP2Location
 add address=1.33.213.226/31 comment="Brazil" list=IP2Location
 add address=1.33.213.228/31 comment="Brazil" list=IP2Location
