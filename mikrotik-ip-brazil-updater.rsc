@@ -33,7 +33,6 @@ return 0
 
 :log info "Cleaning up temporary files"
 /file remove $ipv4File
-/file remove mikrotik-ip-brazil-updater.rsc
 
 # Verify lists have entries
 :local ipv4Count [/ip firewall address-list print count where list=$ipv4ListName]
@@ -51,3 +50,4 @@ add interval=4w2d name="Update Brazil IPv4 list" on-event="/system script run Up
 :delay 10s
 
 :log info "Brazil IPv4 list script completed successfully"
+:log info "Check your Mikrotik Scheduler and Scripts for more information"
