@@ -1,5 +1,5 @@
 # MikroTik IP Address List for Brazil
-# Generated on: Tue 02 Sep 2025 05:06:37 PM -03
+# Generated on: Tue 02 Sep 2025 05:07:06 PM -03
 # Source: firewall.txt
 # 
 # This file contains IP ranges identified as being located in Brazil
@@ -13,30 +13,6 @@
 # Last Generated: 02 Sep 2025 14:58:11 GMT
 # [Important] Please update this list every month
 # -------------------------------------------------------
-add address=1.33.213.199/32 comment="Brazil" list=IP2Location
-add address=1.33.213.200/30 comment="Brazil" list=IP2Location
-add address=1.33.213.226/31 comment="Brazil" list=IP2Location
-add address=1.33.213.228/31 comment="Brazil" list=IP2Location
-add address=1.33.213.230/32 comment="Brazil" list=IP2Location
-add address=1.178.32.0/20 comment="Brazil" list=IP2Location
-add address=2.16.0.0/24 comment="Brazil" list=IP2Location
-add address=2.16.66.0/23 comment="Brazil" list=IP2Location
-add address=2.16.108.0/24 comment="Brazil" list=IP2Location
-add address=2.16.118.1/32 comment="Brazil" list=IP2Location
-add address=2.16.118.3/32 comment="Brazil" list=IP2Location
-add address=2.16.118.7/32 comment="Brazil" list=IP2Location
-add address=2.16.118.8/31 comment="Brazil" list=IP2Location
-add address=2.16.118.20/31 comment="Brazil" list=IP2Location
-add address=2.16.118.22/32 comment="Brazil" list=IP2Location
-add address=2.16.118.29/32 comment="Brazil" list=IP2Location
-add address=2.16.120.0/24 comment="Brazil" list=IP2Location
-add address=2.16.140.0/24 comment="Brazil" list=IP2Location
-add address=2.16.166.0/24 comment="Brazil" list=IP2Location
-add address=2.16.169.0/24 comment="Brazil" list=IP2Location
-add address=2.16.186.0/23 comment="Brazil" list=IP2Location
-add address=2.16.196.0/23 comment="Brazil" list=IP2Location
-add address=2.16.200.0/23 comment="Brazil" list=IP2Location
-add address=2.16.216.0/22 comment="Brazil" list=IP2Location
 add address=2.17.41.0/24 comment="Brazil" list=IP2Location
 add address=2.17.42.0/24 comment="Brazil" list=IP2Location
 add address=2.17.45.0/24 comment="Brazil" list=IP2Location
