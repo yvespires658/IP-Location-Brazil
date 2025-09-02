@@ -50,4 +50,5 @@ add interval=4w2d name="Update Brazil IPv4 list" on-event="/system script run Up
 :delay 10s
 
 :log info "Brazil IPv4 list script completed successfully"
+:log info "You can remove mikrotik-ip-brazil-updater.rsc file"
 :log info "Check your Mikrotik Scheduler and Scripts for more information"
