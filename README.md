@@ -5,22 +5,22 @@ This repository contains IP address ranges for Brazil in MikroTik RouterScript (
 ## Statistics
 
 - **Total IP Ranges**: 21840
-- **Last Updated**: Tue 02 Sep 2025 03:42:51 PM -03
+- **Last Updated**: Tue 02 Sep 2025 05:01:51 PM -03
 - **Format**: MikroTik RouterScript (.rsc)
 
 ## Files
 
 - `mikrotik-ip-brazil.rsc` - MikroTik script with Brazil IP ranges
-- `firewall.txt` - Source file with raw firewall entries
+- `mikrotik-ip-brazil-updater.rsc` - MikroTik script with schedule and update lists every 30 days
 
 ## Usage
 
 ### Import into MikroTik Router
 
-1. Upload the `mikrotik-ip-brazil.rsc` file to your MikroTik router
+1. Upload the `mikrotik-ip-brazil-updater.rsc` file to your MikroTik router
 2. Import the script via terminal:
    ```
-   /import file-name=mikrotik-ip-brazil.rsc
+   /import file-name=3030IPV4_UPDATER_RSC_FILE
    ```
 
 ### Using the Address List
@@ -40,8 +40,12 @@ The imported address list will be named `IP2Location` and contains IP ranges wit
 
 - All IP ranges are marked with comment "Brazil"
 - The address list name is "IP2Location"
-- Compatible with MikroTik RouterOS v6 and v7
 
 ---
 
-*Generated automatically on Tue 02 Sep 2025 03:42:51 PM -03*
+## List source
+- https://www.ip2location.com/free/visitor-blocker
+
+---
+
+*Generated automatically on Tue 02 Sep 2025 05:01:51 PM -03*
