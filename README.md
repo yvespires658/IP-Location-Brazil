@@ -5,7 +5,7 @@ This repository contains IP address ranges for Brazil in MikroTik RouterScript (
 ## Statistics
 
 - **Total IP Ranges**: 22029
-- **Last Updated**: Wed 01 Oct 2025 01:34:57 PM -03
+- **Last Updated**: Tue 11 Nov 2025 05:43:06 PM -03
 - **Format**: MikroTik RouterScript (.rsc)
 
 ## Files
@@ -44,4 +44,4 @@ add chain=forward src-address-list=IP2Location action=accept comment="Allow Braz
 
 ---
 
-*Generated automatically on Wed 01 Oct 2025 01:34:57 PM -03*
+*Generated automatically on Tue 11 Nov 2025 05:43:06 PM -03*

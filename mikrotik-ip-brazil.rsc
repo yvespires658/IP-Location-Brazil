@@ -1,5 +1,5 @@
 # MikroTik IP Address List for Brazil
-# Generated on: Wed 01 Oct 2025 01:34:57 PM -03
+# Generated on: Tue 11 Nov 2025 05:43:06 PM -03
 # Source: firewall.txt
 # 
 # This file contains IP ranges identified as being located in Brazil
